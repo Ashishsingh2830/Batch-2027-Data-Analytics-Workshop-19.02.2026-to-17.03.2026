@@ -6,5 +6,5 @@ Data Analytics projects as part of the DA Workshop.
 
 📌 Instructions:
 1. Create a folder with your Name and Roll Number For example (Ashish_singh_055)
-2. Upload your project file in named folder daywise
+2. Upload your project file in named folder daywise assignment 
 3. Do not upload ZIP or unrelated files
